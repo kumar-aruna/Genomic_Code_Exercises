@@ -1,0 +1,12 @@
+*.*
+!*.R
+!*.png
+!*.py
+!*.sh
+!*.Rmd
+!*.md
+!.gitignore
+!*.jpg
+!*.ris
+!Sample.R1.fastq
+!Sample.R2.fastq
